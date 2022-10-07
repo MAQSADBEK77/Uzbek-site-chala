@@ -1,0 +1,202 @@
+@import url(reset.css);
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.site {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.container {
+margin: 0 auto;
+}
+.container1 {
+    margin-bottom: 108px;
+}
+.top-block1 {
+    display: flex;
+    justify-content: space-between;
+}
+.top-block {
+    margin: 0 auto;
+}
+.logotip {
+    margin: 60px 0 0;
+}
+.top-block2 {
+    display: flex;
+    justify-content: space-between;
+}
+.right-img {
+    margin: 0 414px  0;
+}
+.texsts-top {
+display: flex;
+justify-content: space-between;
+}
+.top-block2 h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 158px 0 24px 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 95px;
+    letter-spacing: -0.02em;
+    
+    color: #000000;
+}
+.fon {
+    display: flex;
+    flex-direction: column;
+}
+.yulduzcha {
+    max-width: 88px;
+    max-height: 88px;
+    position: relative;
+    top: -5%;
+    right: -88%;
+}
+.top-block2 p {
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+margin: 0 0 69px 0;
+color: #000000;
+}
+.top-block2 .button {
+    margin: 0 0 55px 0;
+}
+
+.top-block2 .button2 {
+    margin: 0 0 0 -87px;
+}
+/* and  */
+.videoblock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../img/video.svg) no-repeat;
+    max-width: 1110px;
+    margin: 0 auto;
+    height: 500px;
+}
+/* over  */
+.yulduz-block {
+margin-top: 108px;
+display: flex;
+justify-content: center;
+position: relative;
+left: -7%;
+margin-bottom: 45px;
+}
+.haqida {
+display: flex;
+justify-content: space-between;
+background: #0F0F54;
+border-radius: 20px;
+max-width: 1110px;
+margin: 0 auto;
+max-height: 480px;
+}
+.texsts {
+}
+.texsts h2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    letter-spacing: -0.01em;
+    margin: 126px 0 30px 80px;
+    color: #FFFFFF;
+}
+.texsts p {
+    font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 34px;
+color: #FFFFFF;
+max-width: 560px;
+margin-left: 80px;
+margin-bottom: 126px;
+}
+.telephone-img {
+    width: 495px;
+    height: 773px;
+   position: relative;
+   bottom: 200px;
+}
+/* over  */
+.audio-book {
+    display: flex;
+    justify-content: space-between;
+}
+.texr-img {
+
+}
+.img-phone2 {
+    max-width: 600px;
+    margin-top: 226px;
+}
+.texr-img h3 {
+    font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 60px;
+margin: 309px 0 30px 0;
+letter-spacing: -0.01em;
+
+color: #000000;
+}
+.texr-img p {
+    font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 34px;
+max-width: 549px;
+color: #000000;
+}
+/* over  */
+.tolov-tizimi {
+    background: #F9E0C7;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    max-height: 480px;
+    max-width: 1110px;
+    margin: 0 auto;
+}
+.tolov-tizimi h4 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+padding: 109px 0 30px;
+padding-left: 61px;
+    letter-spacing: -0.01em;
+    
+    color: #000000;
+}
+.tolov-tizimi p {
+    font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 34px;
+padding:0 0 109px;
+max-width: 610px;
+color: #000000;
+padding-left: 61px;
+}
+.tolov-tizimi img {
+    padding-right: 69px;
+    position: relative;
+    bottom: 224px;
+}
+.img4r74y5725676557 {
+    position: absolute;
+    right: 25%;
+    top: 3837px;
+}
+
+
+
+
